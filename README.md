@@ -104,7 +104,7 @@ Web 分为两类:静态网站和动态网站
 
 #### 1.通过 CMD 控制器进入到 php.exe 所在目录.
 
-![6.1.png](https://github.com/Huang-823/Basic-Learning-of-PHP/tree/main/Pic-file/6.1.png)  
+![6.1.png](https://github.com/Huang-823/Basic-Learning-of-PHP/raw/main/Pic-file/6.1.png)
 
 #### 2。通过 php.exe 运行命令来指定要解析的 PHP脚本就可以:php.exe -f PHP 文件所在路态  
 
@@ -131,6 +131,7 @@ Web 分为两类:静态网站和动态网站
 #### 3.2 php.ini文件默认是不存在的，是以 developient 和 production 格式存在，需要格式化
 
 ` `
+
 
 
 
